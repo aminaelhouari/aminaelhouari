@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 CS student at Université Paris Cité<br>💻 Passionate about **Java** and **SQL** (OOP, database design)<br>💡 Building projects around my personal interests (Chess, Video games, Sports)
 
 
