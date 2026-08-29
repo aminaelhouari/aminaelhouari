@@ -1,6 +1,4 @@
-# About Me:
-🎓 CS student at Université Paris Cité<br>💻 Passionate about **Java** and **SQL** (OOP, database design)<br>💡 Building projects around my personal interests (Chess, Video games, Sports)
-
+![Image Alt](https://github.com/aminaelhouari/aminaelhouari/blob/main/@aminaelhouari.png?raw=true)
 
 # 💻 Tech Stack:
 
