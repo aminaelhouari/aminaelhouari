@@ -1,4 +1,4 @@
-
+![Image Alt](https://github.com/aminaelhouari/aminaelhouari/blob/main/@aminaelhouari%20(1).png?raw=true)
 
 # 💻 Tech Stack:
 
