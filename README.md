@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amina%20El%20Houari-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-el-houari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amina.elhouari94@icloud.com) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Amina%20El%20Houari-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-el-houari](https://www.linkedin.com/in/amina-el-houari-1738b3263/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amina.elhouari94@icloud.com) 
 
 # 💻 Tech Stack:
 
@@ -29,7 +29,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aminaelhouari&theme=rose&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=aminaelhouari&theme=rose&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aminaelhouari&theme=rose&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
