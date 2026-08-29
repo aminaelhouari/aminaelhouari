@@ -29,6 +29,4 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aminaelhouari&theme=rose&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=aminaelhouari&theme=rose&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aminaelhouari&theme=rose&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
